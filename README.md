@@ -40,12 +40,13 @@ It supports both basic arithmetic and advanced mathematical operations such as t
 3. Compile and run `Main.java`
 4. Use keyboard or mouse to interact with the calculator GUI
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![Swing](https://img.shields.io/badge/Swing-GUI-lightgrey)
-![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipse&logoColor=white)
 ---
 
 ## Author
 
 **Mehlika Rana Akbay**  
 BSc. Software Engineering – UE Germany  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-GUI-lightgrey)
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat&logo=eclipse&logoColor=white)
