@@ -40,6 +40,7 @@ It supports both basic arithmetic and advanced mathematical operations such as t
 3. Compile and run `Main.java`
 4. Use keyboard or mouse to interact with the calculator GUI
 
+[Download the compiled `.jar` file here (v1.0.0)](https://github.com/mehlikaakbay/scientific-calculator-java/releases/download/v1.0.0/ScientificCalculator.jar)
 ---
 
 ## Author
