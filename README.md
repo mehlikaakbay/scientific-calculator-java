@@ -1,11 +1,4 @@
-# scientific-calculator-java
-A Java Swing-based scientific calculator application implementing modular OOP, GUI design, and advanced math operations. Final project for Backend Programming.
-
 # Scientific Calculator – Java Swing
-
-Final Project – Backend Programming Course  
-University of Europe for Applied Sciences  
-Instructor: Dr. Sami ur Rahman
 
 ## Overview
 
